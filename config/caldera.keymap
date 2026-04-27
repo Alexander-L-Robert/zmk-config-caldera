@@ -42,8 +42,8 @@
 //  |        |        |        |        |        |        |     |        |        |        |        |        |        |
 //  +--------+--------+--------+--------+--------+--------+     +--------+--------+--------+--------+--------+--------+
                         bindings = <
-   &trans     &trans     &trans     &trans     &trans     &trans        &trans     &trans     &trans     &trans     &kp MINUS  &kp EQUAL
-   &kp GRAVE  &trans     &trans     &trans     &trans     &trans        &trans     &trans     &trans     &trans     &kp LBKT   &kp RBKT
+   &kp GRAVE  &trans     &trans     &trans     &trans     &trans        &trans     &trans     &trans     &trans     &kp MINUS  &kp EQUAL
+   &trans     &trans     &trans     &trans     &trans     &trans        &trans     &trans     &trans     &trans     &kp LBKT   &kp RBKT
    &trans     &trans     &trans     &trans     &trans     &trans        &trans     &trans     &trans     &trans     &trans     &trans
    &kp LSHFT  &trans     &trans     &trans     &trans     &trans        &trans     &trans     &trans     &trans     &kp FSLH   &kp RSHFT
    &trans     &trans     &trans     &trans     &trans     &trans        &trans     &trans     &trans     &trans     &trans     &trans
